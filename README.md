@@ -1,6 +1,6 @@
 # elm-qr-scanner
 
-An demo of how Elm can be used to read QRCodes
+A demo of how Elm can be used to read QRCodes
 
 
 # Screenshots
