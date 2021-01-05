@@ -58,7 +58,7 @@ function initializeCamera(app) {
 
                 // Use facingMode: environment to attemt to get the front camera on phones
                 navigator.mediaDevices
-                    .getUserMedia({ video: { facingMode: "environment" } })
+                    .getUserMedia()
                     .then((stream) => {
                         if (video) {
 
